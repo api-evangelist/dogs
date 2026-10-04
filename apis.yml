@@ -39,7 +39,6 @@ apis:
   - name: Dogs
     description: "Based on the Stanford Dogs Dataset"
     humanURL: https://dog.ceo/dog-api/
-    baseURL: https://dog.ceo/dog-api/
     tags:
       - Animals
     properties:
